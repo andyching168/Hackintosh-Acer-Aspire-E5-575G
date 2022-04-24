@@ -6,10 +6,10 @@ EFI Partition for MAC OS Big Sur and Monterey, Open Core ,tested on macos 12.3.1
 - HDMI -> connected at my igpu, now work
 - MIC -> work perfect
 - internal speakers -> works perfectly
-- trackpad -> I have set from BIOS Basic Option, work
+- trackpad -> Set Advanced Option, work
 - keyboard -> works perfectly
 - ethernet -> works perfectly
 - brightness -> works
 - Battery status -> works
 - sleep -> works
-- wifi card (the Qualcomm one)-> Need to be changed
+- wifi card (the Qualcomm one)-> Changed to bcm943224, work up to macos 11, in 12 bluetooth never works

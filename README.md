@@ -12,4 +12,4 @@ EFI Partition for MAC OS Big Sur and Monterey, Open Core ,tested on macos 12.3.1
 - brightness -> works
 - Battery status -> works
 - sleep -> works
-- wifi card (the Qualcomm one)-> Changed to bcm943224, work up to macos 11, in 12 bluetooth never works
+- wifi card (the Qualcomm one)-> Changed to bcm943224, work up to macos 11, in 12 bluetooth never works-> Changed to bcm94360cs2, everythings work

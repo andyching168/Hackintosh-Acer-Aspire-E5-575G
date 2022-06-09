@@ -466,7 +466,7 @@
                     <key>BundlePath</key>
                     <string>WhateverGreen.kext</string>
                     <key>Comment</key>
-                    <string>V1.5.8 | WhateverGreen.kext</string>
+                    <string>V1.5.9 | WhateverGreen.kext</string>
                     <key>Enabled</key>
                     <true/>
                     <key>ExecutablePath</key>
@@ -646,7 +646,7 @@
                     <key>BundlePath</key>
                     <string>AirportBrcmFixup.kext</string>
                     <key>Comment</key>
-                    <string>V2.1.4 | AirportBrcmFixup.kext</string>
+                    <string>V2.1.5 | AirportBrcmFixup.kext</string>
                     <key>Enabled</key>
                     <true/>
                     <key>ExecutablePath</key>
@@ -664,7 +664,7 @@
                     <key>BundlePath</key>
                     <string>AppleALC.kext</string>
                     <key>Comment</key>
-                    <string>V1.7.1 | AppleALC.kext</string>
+                    <string>V1.7.2 | AppleALC.kext</string>
                     <key>Enabled</key>
                     <true/>
                     <key>ExecutablePath</key>
@@ -1173,7 +1173,7 @@
             <key>Boot</key>
             <dict>
                 <key>ConsoleAttributes</key>
-                <integer>0</integer>
+                <integer>15</integer>
                 <key>HibernateMode</key>
                 <string>None</string>
                 <key>HideAuxiliary</key>
@@ -1189,7 +1189,7 @@
                 <key>PickerMode</key>
                 <string>External</string>
                 <key>PickerVariant</key>
-                <string>pcbeta.com\SimpleBW</string>
+                <string>Acidanthera\GoldenGate</string>
                 <key>PollAppleHotKeys</key>
                 <false/>
                 <key>ShowPicker</key>

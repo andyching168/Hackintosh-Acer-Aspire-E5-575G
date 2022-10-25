@@ -1,5 +1,5 @@
 # Hackintosh-Acer-Aspire-E5-575G
-EFI Partition for MAC OS Big Sur, Monterey and Ventura, Using OpenCore ,tested on macOS 12.3.1 and macOS 13 Beta 2
+EFI Partition for MAC OS Big Sur, Monterey and Ventura, Using OpenCore ,tested on macOS 12.3.1 and macOS 13.0
 
 - CPU -> i5 7200U 
 - GPU -> Nvidia 940mx (disabled)
